@@ -1,5 +1,5 @@
 body {
-    background-image:url(..master/img/ss-countdown-main-bg.png);
+    background-image:url(../master/img/ss-countdown-main-bg.png);
 }
 
 .ss-countdown-container {
@@ -65,7 +65,7 @@ body {
 }
 
 .ss-countdown-container .ss-bg-layer { 
-    background-image:url(..master/img/ss-countdown-bg.png); 
+    background-image:url(../master/img/ss-countdown-bg.png); 
     background-repeat:no-repeat;
     position:relative; 
 }
