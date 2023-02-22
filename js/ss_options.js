@@ -11,7 +11,7 @@ ssCountdownDefaultOptions.daysColor 	= 	"#f9b401";
  * */
 
 /*Date Format: YYYY-MM-DD*/
-ssCountdownDefaultOptions.date 		= 	"2017-11-14";	
+ssCountdownDefaultOptions.date 		= 	"2023-11-14";	
 
 /*Time Format: hh:mm:ss*/
 ssCountdownDefaultOptions.time 		= 	"15:00:00";		
