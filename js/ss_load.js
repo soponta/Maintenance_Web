@@ -76,10 +76,10 @@
 	loadCss = function (url, callback) {
 		loadRemote(url, "css", callback);
 	};
-	loadScript("../js/jquery-1.11.1.min.js", function () {
-		loadScript("../js/ss_options.js", function () {
-			loadScript("../js/ss_countdown.js", function () {
-				loadCss("../css/ss_countdown.css", function() {
+	loadScript("js/jquery-1.11.1.min.js", function () {
+		loadScript("js/ss_options.js", function () {
+			loadScript("js/ss_countdown.js", function () {
+				loadCss("css/ss_countdown.css", function() {
 					new SSCountdown(ssCountdownDefaultOptions);
 				});
 			});
